@@ -21,3 +21,25 @@ c)如您出现违反中国有关法律、法规或者相关规则的情况，需
 
 5.信息安全
 a)在使用本软件网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，请您立即联络本软件客服，以便本软件采取相应措施。
+
+This software respects and protects the personal privacy of all users of the service. To provide you with more accurate and personalized services, this software will use and disclose your personal information in accordance with this Privacy Policy. However, this software will treat such information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this software will not disclose such information to external parties or provide it to third parties without your prior permission. This software may update this Privacy Policy from time to time. By agreeing to the Software Service Use Agreement, you are deemed to have agreed to all the contents of this Privacy Policy. This Privacy Policy is an integral part of the Software Service Use Agreement.
+
+Scope of Application
+
+a) When you use the software's network services, the software automatically receives and records information on your mobile device, including but not limited to the language you use, access dates and times, hardware and software feature information, and records of web pages you request.
+
+Use of Information
+
+a) After obtaining your data, this software will upload it to the server so that you can better use the service.
+
+Disclosure of Information
+
+a) This software will not disclose your information to untrusted third parties.
+
+b) Disclosure to third parties or administrative/judicial institutions in accordance with relevant laws or requirements of administrative or judicial institutions;
+
+c) If you violate relevant Chinese laws, regulations, or related rules, disclosure to third parties may be necessary.
+
+Information Storage and Exchange The information and data collected by this software about you will be stored on the servers of this software and/or its affiliated companies. This information and data may be transmitted to countries/regions outside your country/region of residence or outside the location where this software collects the information and data, and may be accessed, stored, and displayed outside such locations.
+
+Information Security a) When using the software's network services for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the transaction counterparty or potential transaction counterparty. Please protect your personal information properly and only provide it to others when necessary. If you find that your personal information has been leaked, please contact the software customer service immediately so that the software can take appropriate measures.
